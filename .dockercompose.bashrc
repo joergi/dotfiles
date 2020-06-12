@@ -1,1 +1,1 @@
-alias dc='docker-comopose'
+alias dc='docker-compose'

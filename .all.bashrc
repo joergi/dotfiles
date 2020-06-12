@@ -1,6 +1,6 @@
-source ./.arch.java.bashrc
-source ./.dockercompose.bashrc
-source ./.git.bashrc
-source ./.tools.bashrc
-source ./.ubuntu.java.bashrc
+source ~/dev/tools/dotfiles/.arch.java.bashrc
+source ~/dev/tools/dotfiles/.dockercompose.bashrc
+source ~/dev/tools/dotfiles/.git.bashrc
+source ~/dev/tools/dotfiles/.tools.bashrc
+source ~/dev/tools/dotfiles/.ubuntu.java.bashrc
 
