@@ -1,4 +1,4 @@
-$bashrc_path="~/dev/tools/dotfiles/bashrc"
+bashrc_path="/home/joergi/dev/tools/dotfiles/bashrc"
 
-source $bashrc_path/bashrc.arch.java.bashrc
+source $bashrc_path/.arch.java.bashrc
 
