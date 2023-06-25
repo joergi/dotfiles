@@ -1,0 +1,18 @@
+# Let NetworkManager manage all devices on this system
+network:
+  version: 2
+  renderer: NetworkManager
+  wifis:
+    wlp61s0:
+      dhcp4: yes
+      dhcp6: yes
+      access-points:
+        "MY_WIFI_ACCESSPOINT 1":
+          password: "SUPER_SECURE_PASSWORD"
+        "MY_WIFI_ACCESSPOINT 2":
+          password: "SUPER_SECURE_PASSWORD"
+        "MY_WIFI_ACCESSPOINT 3":
+          password: "SUPER_SECURE_PASSWORD"
+        "MY_WIFI_ACCESSPOINT 4":
+          password: "SUPER_SECURE_PASSWORD"
+
