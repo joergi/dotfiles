@@ -1,0 +1,5 @@
+alias ton='sudo /opt/traps/bin/cytool runtime start all'
+alias toff='sudo /opt/traps/bin/cytool runtime stop all'
+alias tof='sudo /opt/traps/bin/cytool runtime stop all'
+alias tquery='sudo /opt/traps/bin/cytool runtime query'
+alias tsync='sudo /opt/traps/bin/cytool checkin'
