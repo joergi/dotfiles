@@ -1,5 +1,5 @@
 alias ec='/usr/bin/eclipse'
-alias idea='~/dev/ide/idea/idea-IU-231.9161.38/bin/idea.sh'
-alias idea.='~/dev/ide/idea/idea-IU-231.9161.38/bin/idea.sh .'
+alias idea='~/dev/ide/idea/idea/bin/idea.sh'
+alias idea.='~/dev/ide/idea/idea/bin/idea.sh .'
 alias robo='~/dev/tools/robo3t/bin/robo3t'
 alias postman='~/dev/tools/Postman/Postman'
